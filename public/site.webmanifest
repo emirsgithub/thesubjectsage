@@ -1,0 +1,26 @@
+{
+  "name": "The Subject Sage",
+  "short_name": "Subject Sage",
+  "description": "AI-powered tutor for GCSE and A-Level students, offering specification-based answers, model responses, and practice questions for qualitative subjects.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1A1A1A",
+  "theme_color": "#1A1A1A",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
